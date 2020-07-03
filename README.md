@@ -1,3 +1,8 @@
+My first time playing with typescript and a quick demo to show how one could store state for a 
+multi-step form in a cookie and have the questions specified by the backend. Api.js mimicks what a
+server logic could be and how the json could be formatted.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
